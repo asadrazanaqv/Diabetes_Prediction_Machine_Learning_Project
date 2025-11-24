@@ -10,8 +10,8 @@ import pickle
 import streamlit as st
 
 
-loaded_model = pickle.load(open('D:/coding/Machine Learning/Diabetes Data Project/Diabetes_Prediction_Machine_Learning_Project/diabetes_prediction_trained_model.pkl', 'rb'))
-loaded_scaler = pickle.load(open('D:/coding/Machine Learning/Diabetes Data Project/Diabetes_Prediction_Machine_Learning_Project/scaler.pkl','rb'))
+loaded_model = pickle.load(open('diabetes_prediction_trained_model.pkl', 'rb'))
+loaded_scaler = pickle.load(open('scaler.pkl','rb'))
 
 
 # Creating a function for Prediciton
