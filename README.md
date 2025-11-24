@@ -1,5 +1,10 @@
 🧠 Diabetes Prediction Machine Learning Project
 
+🌐 Live Demo
+
+Try the live app here:
+[Diabetes Prediction Web App](https://diabetespredictionmachinelearningproject-pjoabfnqhyugugoawneyk.streamlit.app/)
+
 This project predicts whether a person is likely to have diabetes based on various medical diagnostic measurements. It combines data analysis, machine learning, and interactive web applications to provide an end-to-end predictive solution.
 
 🚀 Features
@@ -55,21 +60,3 @@ The target variable is Outcome: whether the patient is diabetic or not.
 🎯 Objective
 
 To develop a reliable machine learning model that can assist in early detection of diabetes and support medical decision-making.
-
-🖥️ How to Run
-
-Open the project in Spyder or your preferred Python IDE.
-
-Install dependencies:
-
---> pip install numpy pandas scikit-learn matplotlib seaborn streamlit
--->Run the Streamlit app to get a user-friendly interface:
-
-streamlit run diabetes_prediction_webapp.py
-
-🌐 Live Demo
-
-Try the live app here:
-Diabetes Prediction Web App
-
-Note: Replace your-username and your-repo with your actual GitHub username and repository name.
